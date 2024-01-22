@@ -1,0 +1,33 @@
+.heading1 {
+    color: beige;
+}
+#myheading {
+    font-size: 20px;
+}
+.heading2:hover{
+    background-color: red;
+}
+.eMobilis{
+    background-color: red;
+    height: 200px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    margin-left: 50px;
+    color: aqua;
+}
+.mytest{
+    display: flex;
+    background-color: green;
+    padding-left: 40px;
+
+}
+.par1{
+    margin-left: 50px;
+    margin-right: 60px;
+}
+.main{
+    display: flex;
+}
+.par
